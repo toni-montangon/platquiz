@@ -16,7 +16,7 @@
         </div>
         <ul>
             <li><a href="accueil.php">Accueil</a></li>
-            <li><a href="">Catalogue</a></li>
+            <li><a href="categorie.php">Catalogue</a></li>
             <li><a href="connexion.php">Se connecter</a></li>
             <li><a href="inscription.php">S'inscrire</a></li>
         </ul>
