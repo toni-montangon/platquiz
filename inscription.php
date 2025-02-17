@@ -15,7 +15,7 @@
         </div>
         <ul>
             <li><a href="accueil">Accueil</a></li>
-            <li><a href="">Catalogue</a></li>
+            <li><a href="categorie.php">Catalogue</a></li>
             <li><a href="connexion.php">Se connecter</a></li>
             <li><a href="inscription.php">S'inscrire</a></li>
         </ul>
@@ -50,19 +50,19 @@
 </div>
 
 <footer>
-    <nav>
+      <nav>
         <ul>
-            <li><a href="accueil.php">Accueil</a></li>
-            <li><a href="">Catalogue</a></li>
-            <li><a href="connexion.php">Se connecter</a></li>
-            <li><a href="inscription.php">S'inscrire</a></li>
+          <li><a href="accueil.php">Accueil</a></li>
+          <li><a href="categorie.php">Catalogue</a></li>
+          <li><a href="connexion.php">Se connecter</a></li>
+          <li><a href="inscription.php">S'inscrire</a></li>
         </ul>
-    </nav>
-    <div class="socials">
+      </nav>
+      <div class="socials">
         <a href="https://github.com/toni-montangon/platquiz"><img src="https://bitperfect.at/assets/blog-images/Headerbild-Was-ist-GitHub-v2.png" alt="Github"></a>
-    </div>
-    <p>&copy; 2025 LaPlatQuiz. Tous droits réservés.</p>
-</footer>
+      </div>
+      <p>&copy; 2025 LaPlatQuiz. Tous droits réservés.</p>
+    </footer>
 
 </body>
 </html>
